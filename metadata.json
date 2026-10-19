@@ -1,0 +1,6 @@
+{
+  "name": "EduFit - Thể Dục & Dinh Dưỡng Học Sinh",
+  "description": "Ứng dụng môn Thể dục học đường giúp học sinh tập luyện động tác chuẩn, tăng cường thể lực và xây dựng thói quen ăn uống lành mạnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
